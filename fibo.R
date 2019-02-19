@@ -1,0 +1,13 @@
+str1<-'hey,r'
+print(str1)
+str2<-"welcome"
+print(str2)
+str3<-paste(str1,str2)
+print(str3)
+nchar(str3)
+print(str3)
+str4=toupper(str1)
+str5=tolower(str2)
+print(str4)
+print(str5)
+str6=substr(str3,5,6)
